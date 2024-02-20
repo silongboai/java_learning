@@ -15,7 +15,11 @@
 - Predicate<T>: 接收一个参数, 返回一个布尔值
 - Function<T, R>: 接收一个参数, 返回另一个类型的值
 
-## 3. Writing Lambda Expressions as Method References
+## 3. 以Method References的方式来写Lambda表达式
+- Static method references: RefType::staticMethod
+- Bound method references: RefType::instanceMethod
+- Unbound method references: expr::instanceMethod
+- Constructor method references: ClassName::new
 
 ## 4. Combining Lambda Expressions
 

@@ -1,3 +1,5 @@
+[返回主页](index.md)
+
 [Lambda表达式](https://dev.java/learn/lambdas/)
 - 使用Lambda表达式提高代码的可读性
 - 从 Java 8 版本开始加入, 2014年

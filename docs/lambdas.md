@@ -25,4 +25,4 @@
 - Default Methods
 - Factory Methods
 
-## 5. Writing and Combining Comparators
+## 5. Comparators

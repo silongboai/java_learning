@@ -6,4 +6,4 @@
 ## [Lambda Expressions](lambdas.md)
 ## [Annotations](annotations.md)
 ## [Packages](packages.md)
-
+## [Using Pattern Matching](pattern-matching.md)

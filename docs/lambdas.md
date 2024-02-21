@@ -21,6 +21,8 @@
 - Unbound method references: expr::instanceMethod
 - Constructor method references: ClassName::new
 
-## 4. Combining Lambda Expressions
+## 4. 组合Lambda表达式
+- Default Methods
+- Factory Methods
 
 ## 5. Writing and Combining Comparators

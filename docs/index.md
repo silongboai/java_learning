@@ -4,3 +4,4 @@
 # Getting to Know the Language
 
 ## [Lambda Expressions](lambdas.md)
+## [Annotations](annotations.md)

@@ -8,3 +8,5 @@
 ## [Packages](packages.md)
 ## [Using Pattern Matching](pattern-matching.md)
 ## [Exceptions](exceptions.md)
+## [Refactoring from the Imperative to the Functional Style](refactoring-to-functional-style.md)
+

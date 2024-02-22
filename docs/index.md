@@ -7,3 +7,4 @@
 ## [Annotations](annotations.md)
 ## [Packages](packages.md)
 ## [Using Pattern Matching](pattern-matching.md)
+## [Exceptions](exceptions.md)

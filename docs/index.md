@@ -30,7 +30,9 @@
 
 ## The Java I/O API
 ## The Date Time API
-## Regular Expressions
+
+## [Regular Expressions](regex.md)
+
 ## Fundamentals of Security using JDK Libraries
 ## Virtual Threads
 ## Introduction to Java Reflection

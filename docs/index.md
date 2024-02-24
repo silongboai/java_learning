@@ -26,7 +26,8 @@
 
 ## [The Collections Framework](collections-framework.md)
 
-## The Stream API
+## [The Stream API](streams.md)
+
 ## The Java I/O API
 ## The Date Time API
 ## Regular Expressions
